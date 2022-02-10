@@ -1,0 +1,6 @@
+#Ass2
+a = int(input('Enter a number'))
+If a>0:
+Print('given number is positive')
+else:
+Print('given number is negative')
